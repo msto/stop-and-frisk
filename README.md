@@ -5,6 +5,7 @@ This repository contains the code used to generate my animation of the total
 stops under eleven years of Mayor Bloomberg's stop-and-frisk program.
 
 A still image of the final figure is also available.  
+
 ![stop-and-frisk](figures/bloomberg_stop_and_frisk.png)
 
 ## Data
