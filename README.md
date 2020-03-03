@@ -31,5 +31,7 @@ A still image of the final figure is also available.
 | Z | OTHER |
 
 ### Demographic data
+- Population estimates as of 2016 by demographic and age range were obtained
+  from [Baruch College](https://www.baruch.cuny.edu/nycdata/population-geography/pop-demography.htm).
 - Estimates of the total population size of each demographic as of 2018 were
   obtained from the [US Census](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,NY,US/PST045219).
